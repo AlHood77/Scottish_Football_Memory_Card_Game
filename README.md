@@ -1,6 +1,8 @@
 ## Scottish Football Memory Card Game
 
-retro card flip memory game using Scottish football club badges. Built with vanilla Javascript using
+tutorial - https://www.youtube.com/watch?v=lhNdUVh3qCc&t=401s
+
+retro card flip memory game using Scottish football club badges. Built with vanilla Javascript learning the following
 
 - for loops
 - addEventListener
